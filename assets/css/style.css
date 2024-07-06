@@ -114,7 +114,7 @@
 .avatar-box-prof {
   width: 150px; /* Set the width of your avatar box */
   height: 160px; /* Set the height of your avatar box */
-  border-radius: 50%; /* Ensure the box is circular for an avatar effect */
+  border-radius: 15%; /* Ensure the box is circular for an avatar effect */
   overflow: hidden; /* Ensure the image stays within the circular box */
   border: 2px solid #a39e66; /* Optional: Add a border around the avatar */
   display: flex;
